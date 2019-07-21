@@ -52,7 +52,6 @@ node_modules/
 
 # misc
 .serverless/
-workshops
 
 # lock files
 yarn.lock

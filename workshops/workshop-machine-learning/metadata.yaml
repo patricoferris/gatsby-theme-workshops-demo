@@ -1,0 +1,24 @@
+# This file provides a few key pieces of information about the workshop
+
+# For an example of all the available fields please refer to:
+# https://github.com/hackersatcambridge/workshop-example/blob/master/info/metadata.yaml
+
+title: Intro to Deep Learning # Workshop Title Goes Here
+
+# People who have directly contributed content to this workhsop
+contributors:
+   - Mukul Rathi
+
+tags:
+   - deep learning
+   - machine learning
+   - neural networks
+
+sections: 
+  - Prerequisites 
+  - Setup
+  - Notes
+
+# A license code by which the workshop content is released
+# Should be an 'identifier' from here: https://spdx.org/licenses/
+license: MIT

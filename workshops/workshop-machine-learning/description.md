@@ -1,0 +1,1 @@
+Deep Learning is a bit of a buzzword in the industry at the moment and is the state-of-the-art in AI, but what exactly is it? In this workshop we'll explain exactly that and by the end you'll be able to build your very own neural network from scratch - to predict housing prices and even detect whether cancer cells are benign/malignant! 

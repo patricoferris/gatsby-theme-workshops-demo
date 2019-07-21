@@ -1,0 +1,19 @@
+title: Intro to Swift
+
+# People who have directly contributed content to this workhsop
+contributors:
+  - Jared Khan
+  - Martin Hartt
+
+tags:
+  - beginner
+  - swift
+  - programming
+
+sections: 
+  - Setup
+  - Prerequisites
+  - Notes
+
+# A license code by which the workshop content is released
+license: MIT
